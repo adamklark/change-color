@@ -6,7 +6,7 @@ body{
     background-color: aqua;
 }
 
-.styled {
+/* .styled {
     border: 0;
     top: 50%;
     position: absolute;
@@ -34,4 +34,4 @@ body{
 .styled:active {
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
                 inset 2px 2px 3px rgba(0, 0, 0, .6);
-}
+} */
